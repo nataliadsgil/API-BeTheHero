@@ -1,2 +1,2 @@
-# api-be-the-hero-week-11
+# API-BeTHeHero
 Projeto desenvolvido durante a semana omnistack 11º edição.
